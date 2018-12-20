@@ -61,7 +61,7 @@ function displayProducts() {
                 "Item Id: " + results[i].item_id +
                 "\nProduct Name: " + results[i].product_name +
                 "\nPrice: $" + results[i].price +
-                "\nQuantity: $" + results[i].stock +
+                "\nQuantity: " + results[i].stock +
                 "\n----------------------\n"
             ));
 
